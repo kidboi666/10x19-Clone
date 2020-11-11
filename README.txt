@@ -18,6 +18,9 @@
   - max-width : 799px
 
 
-  헤더 width: 그리드 height: 124px
-  메인 width: 그리드 height: 136px
-  푸터 width: 그리드 height: 125px
+  헤더 width: 그리드 height: 64px
+  메인 width: 그리드 height: 586px
+  푸터 width: 그리드 height: 65px
+
+4. 주요 색상
+  - #AF7832  
